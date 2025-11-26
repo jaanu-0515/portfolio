@@ -1,6 +1,3 @@
-Sure! I removed the last sentence and added your actual LinkedIn & GitHub links.
-Here is your **final formatted README** 👇 (Copy & Paste)
-
 ---
 
 # 🌐 Personal Portfolio | **Jahnavi Boligala**
