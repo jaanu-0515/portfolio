@@ -35,7 +35,9 @@ This portfolio is intended to act as a starting point for my professional journe
 ### 📬 Connect With Me
 
 📧 **Email:** [Jahnavib0515@gmail.com](mailto:Jahnavib0515@gmail.com)
+
 🔗 **LinkedIn:** [https://www.linkedin.com/in/boligala-jahnavi/](https://www.linkedin.com/in/boligala-jahnavi/)
+
 💻 **GitHub:** [https://github.com/jaanu-0515](https://github.com/jaanu-0515)
 
 ---
